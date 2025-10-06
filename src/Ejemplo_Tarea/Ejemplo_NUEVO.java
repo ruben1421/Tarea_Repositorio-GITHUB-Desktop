@@ -8,6 +8,9 @@ public class Ejemplo_NUEVO {
 		
 		System.out.println("Buenas Noches");
 		
+		System.out.println("Hasta mañana");
+		
+		
 	}
 
 }
