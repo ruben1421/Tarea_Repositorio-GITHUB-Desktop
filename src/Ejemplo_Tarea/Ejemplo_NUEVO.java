@@ -6,10 +6,10 @@ public class Ejemplo_NUEVO {
 		// TODO Auto-generated method stub
 
 		
+
 		System.out.println("Hola Mundo");
 		
 		System.out.println("Buen dia ");
-	}
 
 }
 
